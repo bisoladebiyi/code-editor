@@ -6,6 +6,9 @@ module.exports = {
       spacing: {
         semiFull: '60%',
         grid: '35%'
+      },
+      screens: {
+        'desktop': '800px',
       }
     },
   },
